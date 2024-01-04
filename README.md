@@ -1,1 +1,3 @@
-# inf122
+# prueba
+nombre:lenin quispe mamani
+materia:inf-122
