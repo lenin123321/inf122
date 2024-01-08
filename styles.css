@@ -52,3 +52,33 @@ ul li {
 .Email{
     background-color: rosybrown;
 }
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+h1{
+    color: #333;
+}
+p{
+    color: #666;
+}
+button{
+    padding: 10px;
+    background-color: cadetblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+:root{
+    --white: #ffffff;
+    --black:#000000;
+    --purple:#6f2cff;
+    --red-heart:#a50954;
+    --blue-heart:#acd9b2;
+    --sm:14px;
+    --md:20px;
+    --lg:60px;
+}
